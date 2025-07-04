@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordToPDF_POC": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Bassu\\Downloads\\test.docx"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\bin\Debug\net8.0\WordToPDF_POC.exe
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\bin\Debug\net8.0\WordToPDF_POC.deps.json
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\bin\Debug\net8.0\WordToPDF_POC.runtimeconfig.json
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\bin\Debug\net8.0\WordToPDF_POC.dll
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\bin\Debug\net8.0\WordToPDF_POC.pdb
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.AssemblyInfoInputs.cache
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.AssemblyInfo.vb
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.vbproj.CoreCompileInputs.cache
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.dll
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\refint\WordToPDF_POC.dll
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.pdb
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\WordToPDF_POC.genruntimeconfig.cache
+C:\Bassu\New Volume\Old Laptop\Bassu\Visual Studio Projects\WordToPDF_POC\WordToPDF_POC\obj\Debug\net8.0\ref\WordToPDF_POC.dll
